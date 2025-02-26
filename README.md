@@ -8,4 +8,3 @@ git push -u origin master
 -u
 git pull origin main
 git push
-git pull <README.md> main
